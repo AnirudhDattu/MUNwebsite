@@ -9,8 +9,8 @@ const About1 = () => {
       <div className="text-center text-blue-500 text-4xl font-bold py-5">
         BML MUNJAL UNIVERSITY
       </div>
-      <div class="grid grid-cols-1 gap-4 lg:grid-cols-2 lg:gap-8 mx-10">
-        <div class="h-auto text-justify">
+      <div class="grid grid-cols-1 gap-4 lg:grid-cols-7 lg:gap-8 mx-10">
+        <div class="h-auto col-span-4 text-justify">
           <p class="mx-10 h-full overflow-y-auto">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
             delectus ad vero autem harum impedit cupiditate labore beatae! Eum
@@ -35,24 +35,10 @@ const About1 = () => {
             Velit reiciendis error aperiam provident ut
           </p>
         </div>
-        {/* <div class="h-auto rounded-lg grid grid-rows-1 gap-1 lg:grid-rows-2 lg:gap-2">
-          <div class="h-min rounded-lg overflow-hidden bg-slate-500">
-            <img class="h-full w-full object-cover scale-75" src={assets.about1} />
-          </div>
-          <div class="grid grid-cols-2 gap-4 lg:gap-2 h-min">
-            <div class="rounded-lg overflow-hidden">
-              <img class="h-min w-full object-cover scale-75" src={assets.about2} />
-            </div>
-            <div class="rounded-lg overflow-hidden">
-              <img class="h-min w-full object-cover scale-75" src={assets.about3} />
-            </div>
-          </div>
-        </div> */}
-
-        <div>
+        <div className="col-span-3">
           <div class="container mx-auto ">
-            <div class="flex flex-wrap md:-m-2">
-              <div class="flex flex-wrap">
+            <div class="flex flex-wrap">
+              <div class="flex flex-wrap content-start">
                 <div class="h-2/6 w-full  p-1 md:p-2">
                   <img
                     alt="gallery"
