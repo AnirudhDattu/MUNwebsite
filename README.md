@@ -1,3 +1,6 @@
+# MUNwebsite
+Website for Model United Nation BMU - 2024
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
