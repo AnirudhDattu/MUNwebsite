@@ -9,7 +9,7 @@ const AboutUs = () => {
   return (
     <div>
       {/* Include the Header component */}
-      <Header />
+      {/* <Header /> */}
 
       {/* Other content */}
       <div>
