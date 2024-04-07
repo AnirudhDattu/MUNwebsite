@@ -12,8 +12,8 @@ const About3 = () => {
     slidesToScroll: 1,
     cssEase: "ease-in",
     autoplay: true,
-    autoplaySpeed: 10000,
-    speed: 10000,
+    autoplaySpeed: 1000,
+    speed: 1000,
     responsive: [
       {
         breakpoint: 768,
@@ -87,7 +87,7 @@ const Testimonial1 = ({ imageSrc, imageName }) => {
     <div className="relative">
       <div className="flex flex-col justify-center items-center p-4 ">
         <img
-          className="w-full h-9/12 object-cover rounded bg-red-300"
+          className="w-full h-9/12 object-cover rounded"
           src={imageSrc}
           alt="Testimonial"
         />
