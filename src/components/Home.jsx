@@ -9,8 +9,13 @@ import assets from "../assets/assets";
 const Home = () => {
   return (
     <div>
+      <img
+        alt="Party"
+        src={assets.bgimg}
+        className="absolute inset-0 bg-cover w-full h-full bg-center"
+      />
       <div className="relative">
-        {/* Home Image */}
+        <Header />
         <img
           src={assets.homeimg}
           alt=""
@@ -22,7 +27,7 @@ const Home = () => {
           className="w-[75%] md:w-1/2 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 z-10 "
         />
       </div>
-      <div className="relative bottom-0 left-0 w-full">
+      <div className=" bottom-0 left-0 w-full">
         <Whatis />
         <Agenda />
         <Itinary />
