@@ -6,6 +6,7 @@ import a from '../assets/textimg.jpg'
 import navbar_logo from "../assets/navbar_logo.png";
 import homeimg from "../assets/HomeTopBGImage.png";
 import homelogo from "../assets/homeLogowithnamendate.png";
+import footerlogo from "../assets/footerlogo.png";
 
 
 
@@ -20,6 +21,7 @@ const assets = {
     navbar_logo,
     homeimg,
     homelogo,
+    footerlogo,
 
 }
 
