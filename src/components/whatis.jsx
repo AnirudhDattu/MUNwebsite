@@ -9,27 +9,40 @@ const Whatis = () => {
       </div>
       <div className="text-justify lg:mx-28 mx-10 tracking-wide text-xl mt-5">
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
-          delectus ad vero autem harum impedit cupiditate labore beatae! Eum
-          placeat quos pariatur. Velit reiciendis error aperiam provident ut,
-          cumque doloremque! Dolorum, eligendi? Reiciendis modi eligendi,
-          aperiam, nam totam nulla itaque esse similique, reprehenderit facilis
-          soluta accusamus quisquam necessitatibus dolores expedita cum
-          deleniti? Rem impedit neque illum nemo nostrum! Voluptatem, nihil? Ab
-          quo quae, hic aperiam asperiores eveniet esse fugit, culpa rem dicta
-          possimus praesentium. Dolorem aspernatur culpa error minima assumenda
-          dignissimos architecto non maxime tempore, a, natus officia soluta
-          eum? Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
-          delectus ad vero autem harum impedit cupiditate labore beatae! Eum
-          placeat quos pariatur. Velit reiciendis error aperiam provident ut,
-          cumque doloremque! Dolorum, eligendi? Reiciendis modi eligendi,
-          aperiam, nam totam nulla itaque esse similique, reprehenderit facilis
-          soluta accusamus quisquam necessitatibus dolores expedita cum
-          deleniti? Rem impedit neque illum nemo nostrum! Voluptatem, nihil? Ab
-          quo quae, hic aperiam asperiores eveniet esse fugit, culpa rem dicta
-          possimus praesentium. Dolorem aspernatur culpa error minima assumenda
-          dignissimos architecto non maxime tempore, a, natus officia soluta
-          eum?
+          We've all heard about MUNs— they’re a buzz of diplomacy and intellect
+          that captivates the minds of students worldwide. But what truly lies
+          behind this acronym?
+          <br />
+          <br />
+          Model United Nations is a simulation of the actual United Nations
+          conferences, where students work together to solve the world's biggest
+          problems: war crimes, poverty, climate change, public health,
+          terrorism, and more.
+          <br />
+          <br /> Within its confines, students embrace the roles of delegates,
+          speakers, and chairs, transcending geographical boundaries to
+          represent diverse nations and perspectives. In this dynamic setting,
+          students from varied backgrounds converge, learn to negotiate with
+          others of differing opinions and collaborate with like-minded
+          representatives. <br />
+          <br />
+          MUN allows all participants to apply theoretical knowledge of
+          international relations and of the United Nations system in a
+          practical, hands-on setting. It nudges them to be actively involved in
+          global issues; and enhances their understanding of the structure of
+          the international system and challenges of global diplomacy.
+          <br />
+          <br /> Welcome to the first ever MUN at BML Munjal University, where
+          delegates from across India are provided with the opportunity to
+          engage in spirited debates, negotiate resolutions, and seek common
+          ground amidst diverse perspectives. As we embark on this MUN journey,
+          let us embrace the spirit of diplomacy, cooperation, and mutual
+          respect. Let us remember that while our nations may differ, our
+          humanity unites us.
+          <br />
+          <br /> With that, I declare the BML Munjal Model United Nations
+          Conference officially open! May your deliberations be fruitful, your
+          resolutions impactful, and your bonds enduring. Thank you.
         </p>
       </div>
     </div>

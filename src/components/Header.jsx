@@ -73,7 +73,7 @@ const Header = () => {
                 Brochure
               </a>
               <a
-                href="https://maitri.bmu.edu.in/asd_EventPublicUserMaster.htm?eventID=23"
+                href="https://unstop.com/o/kcSEGBz?lb=q0hwUUGN"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="border-2 border-blue-900 py-1 px-4 text-white rounded-xl bg-blue-900 transition-all duration-300 ease-in-out cursor-pointer hover:bg-transparent hover:text-white"

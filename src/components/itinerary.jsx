@@ -14,7 +14,7 @@ const Itinary = () => {
           <div class="h-32  flex justify-center items-center my-2 lg:my-10 ">
             <div className="text-start ">
               <div className="text-blue-500 lg:text-5xl text-4xl font-bold">
-                09:00 - 12:00 AM
+                09:00 - 9:45 AM
               </div>
               <div className="text-black lg:text-4xl text-3xl font-medium">
                 Registration
@@ -24,32 +24,10 @@ const Itinary = () => {
           <div class="h-32  flex justify-center items-center my-2 lg:my-10">
             <div className="text-start ">
               <div className="text-blue-500 lg:text-5xl text-4xl font-bold">
-                09:00 - 12:00 AM
+                09:45 - 10:00 AM
               </div>
               <div className="text-black lg:text-4xl text-3xl font-medium">
-                Registration
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="grid grid-cols-1 gap-4 lg:grid-cols-2 lg:gap-8">
-          <div class="h-32  flex justify-center items-center my-2 lg:my-10">
-            <div className="text-start ">
-              <div className="text-blue-500 lg:text-5xl text-4xl font-bold">
-                09:00 - 12:00 AM
-              </div>
-              <div className="text-black lg:text-4xl text-3xl font-medium">
-                Registration
-              </div>
-            </div>
-          </div>
-          <div class="h-32  flex justify-center items-center my-2 lg:my-10">
-            <div className="text-start ">
-              <div className="text-blue-500 lg:text-5xl text-4xl font-bold">
-                09:00 - 12:00 AM
-              </div>
-              <div className="text-black lg:text-4xl text-3xl font-medium">
-                Registration
+                Breakfast
               </div>
             </div>
           </div>
@@ -58,21 +36,65 @@ const Itinary = () => {
           <div class="h-32  flex justify-center items-center my-2 lg:my-10">
             <div className="text-start ">
               <div className="text-blue-500 lg:text-5xl text-4xl font-bold">
-                09:00 - 12:00 AM
+                10:15 - 10:45 AM
               </div>
               <div className="text-black lg:text-4xl text-3xl font-medium">
-                Registration
+                Opening Ceremony
               </div>
             </div>
           </div>
           <div class="h-32  flex justify-center items-center my-2 lg:my-10">
             <div className="text-start ">
               <div className="text-blue-500 lg:text-5xl text-4xl font-bold">
-                09:00 - 12:00 AM
+                10:45 - 01:30 AM
               </div>
               <div className="text-black lg:text-4xl text-3xl font-medium">
-                Registration
+                Session 1
               </div>
+            </div>
+          </div>
+        </div>
+        <div class="grid grid-cols-1 gap-4 lg:grid-cols-2 lg:gap-8">
+          <div class="h-32  flex justify-center items-center my-2 lg:my-10">
+            <div className="text-start ">
+              <div className="text-blue-500 lg:text-5xl text-4xl font-bold">
+                01:30 - 02:30 AM
+              </div>
+              <div className="text-black lg:text-4xl text-3xl font-medium">
+                Lunch
+              </div>
+            </div>
+          </div>
+          <div class="h-32  flex justify-center items-center my-2 lg:my-10">
+            <div className="text-start ">
+              <div className="text-blue-500 lg:text-5xl text-4xl font-bold">
+                02:30 - 5:30 AM
+              </div>
+              <div className="text-black lg:text-4xl text-3xl font-medium">
+                Session 2
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="grid grid-cols-1 gap-4 lg:grid-cols-2 lg:gap-8">
+        <div class="h-32  flex justify-center items-center my-2 lg:my-10">
+          <div className="text-start ">
+            <div className="text-blue-500 lg:text-5xl text-4xl font-bold">
+              05:30 - 06:00 AM
+            </div>
+            <div className="text-black lg:text-4xl text-3xl font-medium">
+              Feedback session
+            </div>
+          </div>
+        </div>
+        <div class="h-32  flex justify-center items-center my-2 lg:my-10">
+          <div className="text-start ">
+            <div className="text-blue-500 lg:text-5xl text-4xl font-bold">
+              06:00 onwards
+            </div>
+            <div className="text-black lg:text-4xl text-3xl font-medium">
+              Socializing and networking
             </div>
           </div>
         </div>
@@ -88,42 +110,20 @@ const Itinary = () => {
           <div class="h-32  flex justify-center items-center my-2 lg:my-10">
             <div className="text-start ">
               <div className="text-blue-500 lg:text-5xl text-4xl font-bold">
-                09:00 - 12:00 AM
+                09:00 - 09:45 AM
               </div>
               <div className="text-black lg:text-4xl text-3xl font-medium">
-                Registration
+                Breakfast
               </div>
             </div>
           </div>
           <div class="h-32  flex justify-center items-center my-2 lg:my-10">
             <div className="text-start ">
               <div className="text-blue-500 lg:text-5xl text-4xl font-bold">
-                09:00 - 12:00 AM
+                09:45 - 01:00 AM
               </div>
               <div className="text-black lg:text-4xl text-3xl font-medium">
-                Registration
-              </div>
-            </div>
-          </div>
-        </div>
-        <div class="grid grid-cols-1 gap-4 lg:grid-cols-2 lg:gap-8">
-          <div class="h-32  flex justify-center items-center my-2 lg:my-10">
-            <div className="text-start ">
-              <div className="text-blue-500 lg:text-5xl text-4xl font-bold">
-                09:00 - 12:00 AM
-              </div>
-              <div className="text-black lg:text-4xl text-3xl font-medium">
-                Registration
-              </div>
-            </div>
-          </div>
-          <div class="h-32  flex justify-center items-center my-2 lg:my-10">
-            <div className="text-start ">
-              <div className="text-blue-500 lg:text-5xl text-4xl font-bold">
-                09:00 - 12:00 AM
-              </div>
-              <div className="text-black lg:text-4xl text-3xl font-medium">
-                Registration
+                Session 3
               </div>
             </div>
           </div>
@@ -132,20 +132,42 @@ const Itinary = () => {
           <div class="h-32  flex justify-center items-center my-2 lg:my-10">
             <div className="text-start ">
               <div className="text-blue-500 lg:text-5xl text-4xl font-bold">
-                09:00 - 12:00 AM
+                01:00 - 02:00 AM
               </div>
               <div className="text-black lg:text-4xl text-3xl font-medium">
-                Registration
+                Lunch
               </div>
             </div>
           </div>
           <div class="h-32  flex justify-center items-center my-2 lg:my-10">
             <div className="text-start ">
               <div className="text-blue-500 lg:text-5xl text-4xl font-bold">
-                09:00 - 12:00 AM
+                02:00 - 05:30 AM
               </div>
               <div className="text-black lg:text-4xl text-3xl font-medium">
-                Registration
+                Session 4
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="grid grid-cols-1 gap-4 lg:grid-cols-2 lg:gap-8">
+          <div class="h-32  flex justify-center items-center my-2 lg:my-10">
+            <div className="text-start ">
+              <div className="text-blue-500 lg:text-5xl text-4xl font-bold">
+                05:30 - 06:00 AM
+              </div>
+              <div className="text-black lg:text-4xl text-3xl font-medium">
+                Feedback session
+              </div>
+            </div>
+          </div>
+          <div class="h-32  flex justify-center items-center my-2 lg:my-10">
+            <div className="text-start ">
+              <div className="text-blue-500 lg:text-5xl text-4xl font-bold">
+                6:00 onwards
+              </div>
+              <div className="text-black lg:text-4xl text-3xl font-medium">
+                Closing ceremony
               </div>
             </div>
           </div>

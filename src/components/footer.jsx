@@ -23,8 +23,20 @@ const Footer = () => {
           </p>
         </div>
         <div className="md:w-full flex justify-start items-end">
-          <InstagramIcon className="text-white text-xl mr-4" />
-          <LinkedInIcon className="text-white text-xl mr-4" />
+          <a
+            href="https://www.instagram.com/bmu.mun/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <InstagramIcon className="text-white text-xl mr-4" />
+          </a>
+          <a
+            href="https://www.linkedin.com/in/bml-munjal-model-united-nations-b16216301/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <LinkedInIcon className="text-white text-xl mr-4" />
+          </a>
           <EmailOutlinedIcon className="text-white text-xl" />
         </div>
       </div>

@@ -12,46 +12,42 @@ const Agenda = () => {
             UNSC
           </div>
           <div class="text-white font-medium text-justify text-lg mx-3">
-            Discussions Around the Quest for a Two-State Solution in the
-            Israeli-Palestinian Conflict
+            Pursuing a Two-State Solution in the Israeli-Palestinian Conflict
+            for Peaceful Coexistence and Stability.
           </div>
         </div>
         <div class="h-60 rounded-lg bg-white bg-opacity-20 flex flex-col gap-2 border border-white">
           <div class="text-white font-bold text-center mt-9 text-xl lg:basis-1/4 basis-1/5 ">
-            UNSC
+            UNGA
           </div>
           <div class="text-white font-medium text-justify text-lg mx-3">
-            Discussions Around the Quest for a Two-State Solution in the
-            Israeli-Palestinian Conflict
+            Enhancing Emergency Humanitarian Aid in Conflict-Affected Regions.
           </div>
         </div>
         <div class="h-60 rounded-lg bg-white bg-opacity-20 flex flex-col gap-2 border border-white">
           <div class="text-white font-bold text-center mt-9 text-xl lg:basis-1/4 basis-1/5 ">
-            UNSC
+            AIPPM
           </div>
           <div class="text-white font-medium text-justify text-lg mx-3">
-            Discussions Around the Quest for a Two-State Solution in the
-            Israeli-Palestinian Conflict
+            Addressing Caste Discrimination and Social Justice.
           </div>
         </div>
       </div>
       <div class="grid grid-cols-1 gap-4 lg:grid-cols-2 lg:gap-32 lg:mx-80 lg:mt-10 mt-5 mx-20 ">
         <div class="h-60 rounded-lg bg-white bg-opacity-20 flex flex-col gap-2 border border-white">
           <div class="text-white font-bold text-center mt-9 text-xl lg:basis-1/4 basis-1/5 ">
-            UNSC
+            UNHRC
           </div>
           <div class="text-white font-medium text-justify text-lg mx-3 ">
-            Discussions Around the Quest for a Two-State Solution in the
-            Israeli-Palestinian Conflict
+            Addressing Long-term Refugee Solutions.
           </div>
         </div>
         <div class="h-60 rounded-lg bg-white bg-opacity-20 flex flex-col gap-2 border border-white mb-10">
           <div class="text-white font-bold text-center mt-9 text-xl lg:basis-1/4 basis-1/5 ">
-            UNSC
+            IP
           </div>
           <div class="text-white font-medium text-justify text-lg mx-3 ">
-            Discussions Around the Quest for a Two-State Solution in the
-            Israeli-Palestinian Conflict
+            Photography and Journalism
           </div>
         </div>
       </div>
