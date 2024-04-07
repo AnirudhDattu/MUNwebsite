@@ -2,7 +2,7 @@ import React from "react";
 
 const Itinary = () => {
   return (
-    <div className="bg-white pt-4 pb-10">
+    <div className="bg-white pt-4 pb-10 relative">
       <div className="text-black text-center text-6xl font-bold py-10">
         ITINERARY
       </div>
@@ -79,7 +79,9 @@ const Itinary = () => {
       </div>
       {/* ---------------------------------------DAY - 2-------------------------------------------------------------- */}
       <div className="h-12 w-40 rounded-lg bg-blue-500 flex justify-center items-center mx-auto mb-5">
-        <div className="text-white text-center font-semibold text-3xl">DAY-2</div>
+        <div className="text-white text-center font-semibold text-3xl">
+          DAY-2
+        </div>
       </div>
       <div>
         <div class="grid grid-cols-1 gap-4 lg:grid-cols-2 lg:gap-8">

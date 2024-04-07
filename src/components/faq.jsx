@@ -3,7 +3,7 @@ import Accordion from "./Accordion";
 
 const FAQ = () => {
   return (
-    <div className="w-full  bg-gradient-to-r from-blue-600 to-blue-900 ">
+    <div className="w-full  bg-transparent relative ">
       <div class="grid grid-cols-1 gap-4 lg:grid-cols-3 lg:gap-32 mx-20 py-20">
         <div class="h-60 rounded-lg bg-white bg-opacity-25 border border-white flex justify-center items-center">
           <div class="text-white font-bold text-center text-xl ">
@@ -16,9 +16,7 @@ const FAQ = () => {
           </div>
         </div>
         <div class="h-60 rounded-lg bg-white bg-opacity-25 border border-white flex justify-center items-center">
-          <div class="text-white font-bold text-center text-xl ">
-          Handbook
-          </div>
+          <div class="text-white font-bold text-center text-xl ">Handbook</div>
         </div>
       </div>
       <div className="p-4">

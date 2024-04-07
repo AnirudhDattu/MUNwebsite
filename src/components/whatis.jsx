@@ -2,7 +2,7 @@ import React from "react";
 
 const Whatis = () => {
   return (
-    <div className="flex flex-col gap-3 my-20 w-screen ">
+    <div className="flex flex-col gap-3 mb-10 py-20 w-screen relative bg-white ">
       <div className="text-black font-bold text-2xl text-center ">WHAT IS</div>
       <div className="text-blue-900 font-bold text-2xl text-center">
         BML MUNJAL MODEL UNITED NATIONS?

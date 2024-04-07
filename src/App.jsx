@@ -5,7 +5,7 @@ import {
   createRoutesFromElements,
   RouterProvider,
 } from "react-router-dom";
-import Home from "./components/Home";
+import Home from "./pages/Home";
 import AboutUs from "./pages/AboutUs";
 import Sponsors from "./Sponsors";
 
