@@ -9,7 +9,7 @@ const About1 = () => {
       <div className="text-center text-blue-500 text-4xl font-bold py-5">
         BML MUNJAL UNIVERSITY
       </div>
-      <div class="grid grid-cols-1 gap-4 lg:grid-cols-7 lg:gap-8 mx-10">
+      <div class="md:grid hidden grid-cols-1 gap-4 lg:grid-cols-7 lg:gap-8 mx-10">
         <div class="h-auto col-span-4 text-justify">
           <p class="mx-10 h-full overflow-y-auto">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam

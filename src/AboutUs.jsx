@@ -7,18 +7,17 @@ import assets from "./assets/assets";
 
 const AboutUs = () => {
   return (
-    <div>
+    <div className="relative">
       {/* Include the Header component */}
       <Header />
 
       {/* Other content */}
-      <div>
-        <img
-          alt="Party"
-          src={assets.bgimg}
-          className="absolute inset-0 bg-cover bg-center"
-        />
-      </div>
+      <img
+        alt="Party"
+        src={assets.bgimg}
+        className="absolute inset-0 bg-cover w-full h-full bg-center"
+      />
+      <div></div>
       <About1 />
       <About2 />
       <About3 />
