@@ -32,8 +32,8 @@ const Header = () => {
                   src={assets.navbar_logo}
                   alt="Logo"
                   className="h-[4rem]"
-                  width={132}
-                  height={64}
+                  width={70}
+                  height={70}
                 />
               </div>
             </Link>
@@ -59,7 +59,7 @@ const Header = () => {
                 toggle
                   ? "flex-col justify-center text-center gap-8 md:gap-8"
                   : "flex-row"
-              } flex justify-center items-center gap-4 md:gap-16 text-white text-left text-[1.25rem] lg:text-[1.15rem] lg:mr-16`}
+              } flex justify-center items-center gap-4 md:gap-16 font-semibold text-white text-left text-[1.25rem] lg:text-[1.15rem] lg:mr-5`}
             >
               <Link to="/">Home</Link>
               <Link to="/about">About</Link>
@@ -68,7 +68,7 @@ const Header = () => {
                 href="https://drive.google.com/file/d/1DvWKw2UYGOArsBhXi2onB_c9Ew73e0U1/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="border-2 border-white py-2 px-4 text-black bg-white transition-all duration-300 ease-in-out cursor-pointer hover:bg-transparent hover:text-white"
+                className="font-semibold text-white"
               >
                 Brochure
               </a>
@@ -76,7 +76,7 @@ const Header = () => {
                 href="https://maitri.bmu.edu.in/asd_EventPublicUserMaster.htm?eventID=23"
                 target="_blank"
                 rel="noopener noreferrer"
-                className="border-2 border-white py-2 px-4 text-black bg-white transition-all duration-300 ease-in-out cursor-pointer hover:bg-transparent hover:text-white"
+                className="border-2 border-blue-900 py-1 px-4 text-white rounded-xl bg-blue-900 transition-all duration-300 ease-in-out cursor-pointer hover:bg-transparent hover:text-white"
               >
                 Register
               </a>

@@ -19,7 +19,7 @@ const FAQ = () => {
           <div class="text-white font-bold text-center text-xl ">Handbook</div>
         </div>
       </div>
-      <div className="p-4">
+      <div className="p-4 lg:px-20">
         <div className="text-white text-center font-bold text-4xl tracking-wide">
           FAQS
         </div>

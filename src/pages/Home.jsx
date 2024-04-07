@@ -15,7 +15,6 @@ const Home = () => {
         src={assets.bgimg}
         className="absolute inset-0 bg-cover w-full h-full bg-center"
       />
-
       <Header />
       <Landing />
       <Whatis />
