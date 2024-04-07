@@ -12,7 +12,7 @@ const About3 = () => {
     slidesToScroll: 1,
     cssEase: "ease-in",
     autoplay: true,
-    autoplaySpeed: 1000,
+    autoplaySpeed: 10000,
     speed: 1000,
     responsive: [
       {

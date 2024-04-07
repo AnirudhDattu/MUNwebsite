@@ -9,8 +9,7 @@ const AboutUs = () => {
   return (
     <div className="relative">
       {/* Include the Header component */}
-      {/* <Header /> */}
-
+      <Header />
       {/* Other content */}
       <img
         alt="Party"
@@ -18,6 +17,7 @@ const AboutUs = () => {
         className="absolute inset-0 bg-cover w-full h-full bg-center"
       />
       <div></div>
+
       <About1 />
       <About2 />
       <About3 />

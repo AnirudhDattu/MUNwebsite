@@ -2,7 +2,7 @@ import React from "react";
 
 const Agenda = () => {
   return (
-    <div className="w-screen bg-gradient-to-r from-blue-600 to-blue-900 py-10">    
+    <div className="relative w-screen bg-transparent py-10">
       <div className="text-white font-bold text-4xl text-center mb-20">
         AGENDAS
       </div>
