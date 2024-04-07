@@ -5,6 +5,7 @@ import Itinary from "../components/itinerary";
 import FAQ from "../components/faq";
 import Header from "../components/Header";
 import Landing from "../components/landing";
+import Footer from "../components/footer";
 import assets from "../assets/assets";
 
 const Home = () => {
@@ -21,6 +22,7 @@ const Home = () => {
       <Agenda />
       <Itinary />
       <FAQ />
+      <Footer />
     </div>
   );
 };

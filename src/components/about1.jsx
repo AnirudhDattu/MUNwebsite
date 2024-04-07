@@ -4,8 +4,8 @@ import assets from "../assets/assets";
 
 const About1 = () => {
   return (
-    <div className="pt-28">
-      <div className="bg-white  relative pt-8 pb-10">
+    <div className="pt-24">
+      <div className="bg-white  relative pt-5 pb-10">
         <div className="text-center text-black text-4xl font-bold">ABOUT</div>
         <div className="text-center text-blue-500 text-4xl font-bold py-5">
           BML MUNJAL UNIVERSITY

@@ -7,7 +7,7 @@ import {
 } from "react-router-dom";
 import Home from "./pages/Home";
 import AboutUs from "./pages/AboutUs";
-import Sponsors from "./Sponsors";
+import Sponsors from "./pages/Sponsors";
 
 const router = createBrowserRouter(
   createRoutesFromElements(

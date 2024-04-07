@@ -85,14 +85,14 @@ const About3 = () => {
 const Testimonial1 = ({ imageSrc, imageName }) => {
   return (
     <div className="relative">
-      <div className="flex flex-col justify-center items-center p-4 ">
+      <div className="flex flex-col justify-center items-center p-4 px-5 ">
         <img
           className="w-full h-9/12 object-cover rounded"
           src={imageSrc}
           alt="Testimonial"
         />
-        <div className="absolute bottom-5 w-full  justify-center">
-          <div className="bg-blue-500 rounded">
+        <div className="absolute bottom-5 w-full px-5  justify-center">
+          <div className="bg-blue-500 rounded ">
             <p className="p-2 text-center xl:font-medium text-white">
               {imageName}
             </p>
