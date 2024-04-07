@@ -21,7 +21,7 @@ const Header = () => {
 
   return (
     <div>
-      <nav className="absolute bg-transparent top-0 left-0 right-0 z-50 md:p-8 lg:pt-4 pt-6 py-8 pr-8 pl-3">
+      <nav className="absolute bg-transparent top-0 left-0 right-0 z-50 md:p-8 lg:pt-4 pt-2 py-8 pr-8 pl-3">
         <div className="flex  flex-col lg:flex-row lg:items-center lg:justify-between">
           <div className="flex items-center justify-between">
             <Link to="/">
