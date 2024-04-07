@@ -1,15 +1,15 @@
 import React from "react";
-import Header from "./Header";
-import About1 from "./components/about1";
-import About2 from "./components/about2";
-import About3 from "./components/about3";
-import assets from "./assets/assets";
+import Header from "../components/Header";
+import About1 from "../components/about1";
+import About2 from "../components/about2";
+import About3 from "../components/about3";
+import assets from "../assets/assets";
 
 const AboutUs = () => {
   return (
     <div className="relative">
       {/* Include the Header component */}
-      <Header />
+      {/* <Header /> */}
 
       {/* Other content */}
       <img

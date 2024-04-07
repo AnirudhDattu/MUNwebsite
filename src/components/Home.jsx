@@ -1,10 +1,10 @@
 import React from "react";
-import Whatis from "./components/whatis";
-import Agenda from "./components/agenda";
-import Itinary from "./components/itinerary";
-import FAQ from "./components/faq";
+import Whatis from "./whatis";
+import Agenda from "./agenda";
+import Itinary from "./itinerary";
+import FAQ from "./faq";
 import Header from "./Header";
-import assets from "./assets/assets";
+import assets from "../assets/assets";
 
 const Home = () => {
   return (
