@@ -13,7 +13,7 @@ const Footer = () => {
           <img
             src={assets.footerlogo}
             alt=""
-            className="h-fit w-fit object-cover mb-4"
+            className="lg:h-fit h-[75] w-fit object-cover mb-4"
           />
           <p className="text-sm text-white">
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur
