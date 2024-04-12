@@ -63,9 +63,9 @@ const Header = () => {
             >
               <Link to="/">Home</Link>
               <Link to="/about">About</Link>
-              <Link to="/sponsors">Sponsors</Link>
+              {/* <Link to="/sponsors">Sponsors</Link> */}
               <a
-                href="https://drive.google.com/file/d/1DvWKw2UYGOArsBhXi2onB_c9Ew73e0U1/view?usp=sharing"
+                href="https://drive.google.com/file/d/1YRq-xXS9IkPhdGbUVnTQ_P-sVgCewzjh/view"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="font-semibold text-white"

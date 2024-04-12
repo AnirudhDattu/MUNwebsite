@@ -12,29 +12,28 @@ const About1 = () => {
         </div>
         <div class="grid grid-cols-1 gap-4 lg:grid-cols-7 lg:gap-8 mx-6">
           <div class="h-auto col-span-4 text-justify">
-            <p class="mx-4 lg:mx-10 h-full overflow-y-auto">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quisquam
-              delectus ad vero autem harum impedit cupiditate labore beatae! Eum
-              placeat quos pariatur. Velit reiciendis error aperiam provident
-              ut, cumque doloremque! Dolorum, eligendi? Reiciendis modi
-              eligendi, aperiam, nam totam nulla itaque esse similique,
-              reprehenderit facilis soluta accusamus quisquam necessitatibus
-              dolores expedita cum deleniti? Lorem ipsum dolor sit amet
-              consectetur adipisicing elit. Quisquam delectus ad vero autem
-              harum impedit cupiditate labore beatae! Eum placeat quos pariatur.
-              Velit reiciendis error aperiam provident ut, cumque doloremque!
-              Dolorum, eligendi? Reiciendis modi eligendi, aperiam, nam totam
-              nulla itaque esse similique, reprehenderit facilis soluta Lorem
-              ipsum dolor sit amet consectetur adipisicing elit. Quisquam
-              delectus ad vero autem harum impedit cupiditate labore beatae! Eum
-              placeat quos pariatur. Velit reiciendis error aperiam provident
-              ut, cumque doloremque! Dolorum, eligendi? Reiciendis modi
-              eligendi, aperiam, nam totam nulla itaque esse similique,
-              reprehenderit facilis soluta accusamus quisquam necessitatibus
-              dolores expedita cum deleniti? Lorem ipsum dolor sit amet
-              consectetur adipisicing elit. Quisquam delectus ad vero autem
-              harum impedit cupiditate labore beatae! Eum placeat quos pariatur.
-              Velit reiciendis error aperiam provident ut
+            <p class="text-justify lg:mx-28 mx-10 tracking-wide text-xl h-full overflow-y-auto">
+              Welcome to BML Munjal University (BMU), where excellence meets
+              innovation in higher education. At BMU, we foster a unique
+              experiential-learning environment that nurtures curiosity,
+              creativity, and problem-solving skills. Our focus extends beyond
+              academics and includes sports, research, and industry
+              collaborations. Our interdisciplinary approach to education
+              ensures that students receive a holistic learning experience,
+              preparing them to tackle real-world challenges. Through
+              partnerships with leading companies such as KPMG, IBM, Siemens,
+              and Hero MotoCorp, students are provided with opportunities for
+              practical learning, ensuring they are well-equipped for the
+              professional world. With a student-driven campus culture and a
+              diverse community representing the breadth of India, BMU is
+              dedicated to nurturing leaders equipped to drive initiatives that
+              benefit our collective growth and development. With a track record
+              of successful events and a student body that embodies drive and
+              global readiness, our university is poised to make a difference in
+              society through dedication and talent. Join us at BMU, where every
+              student is empowered to excel, innovate, and lead towards a
+              brighter future. Together, let's shape tomorrow's leaders and
+              create a legacy of excellence in education.
             </p>
           </div>
           <div className="col-span-3">
