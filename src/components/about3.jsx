@@ -28,13 +28,13 @@ const About3 = () => {
     <div className="px-8 relative items-center z-10 bg-white">
       <div className="">
         <div className="flex  justify-center">
-          <h1 className="text-3xl font-bold mb-5 mt-5 text-white ">
-            MEET OUR TEAM
+          <h1 className="text-3xl font-bold mb-5 mt-5 text-black pt-6">
+            OUR TEAM
           </h1>
         </div>
         <div className="mt-5 mb-1">
-          <h1 className="text-white text-center text-2xl  font-medium">
-            Team lead's
+          <h1 className="text-2xl text-white h-12 w-56 font-bold rounded-lg bg-blue-500 flex justify-center items-center mx-auto mb-5">
+            MEET THE CORE
           </h1>
         </div>
       </div>
