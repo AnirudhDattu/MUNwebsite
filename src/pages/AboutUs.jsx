@@ -3,6 +3,7 @@ import Header from "../components/Header";
 import About1 from "../components/about1";
 import About2 from "../components/about2";
 import About3 from "../components/about3";
+import Footer from "../components/footer";
 import assets from "../assets/assets";
 
 const AboutUs = () => {
@@ -21,7 +22,9 @@ const AboutUs = () => {
       <About1 />
       <About2 />
       <About3 />
+      <Footer />
     </div>
+    
   );
 };
 
