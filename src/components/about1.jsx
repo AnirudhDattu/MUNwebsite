@@ -1,16 +1,16 @@
 import React from "react";
 import assets from "../assets/assets";
-// import assets from '../assets/assets';
 
 const About1 = () => {
   return (
     <div className="lg:pt-24 pt-20">
-      <div className="bg-white  relative pt-5 pb-10">
+      <div className="bg-white relative pt-5 pb-10">
         <div className="text-center text-black text-4xl font-bold">ABOUT</div>
         <div className="text-center text-blue-500 text-4xl font-bold py-5">
           BML MUNJAL UNIVERSITY
         </div>
-        <div className="grid grid-cols-2 gap-4 lg:grid-cols-7 lg:gap-8 mx-6">
+        <div className="grid grid-cols-1 gap-4 lg:grid-cols-7 lg:gap-8 mx-6">
+          {/* Text div */}
           <div className="h-auto col-span-1 lg:col-span-4 text-justify">
             <p className="text-justify mx-10 tracking-wide text-xl h-full overflow-y-auto">
               Welcome to BML Munjal University (BMU), where excellence meets
@@ -36,11 +36,13 @@ const About1 = () => {
               create a legacy of excellence in education.
             </p>
           </div>
+          
+          {/* Images div */}
           <div className="col-span-1 lg:col-span-3">
-            <div className="container mx-auto ">
-              <div className="md:flex hidden flex-wrap">
+            <div className="container mx-auto">
+              <div className="md:flex flex-wrap">
                 <div className="flex flex-wrap content-start">
-                  <div className=" w-full  p-1 md:p-2">
+                  <div className="w-full p-1 md:p-2">
                     <img
                       alt="gallery"
                       className="block h-full w-full rounded-lg object-cover object-center"
