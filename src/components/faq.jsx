@@ -43,10 +43,6 @@ const FAQ = () => {
             answer="An MUN works by simulating the United Nations, where students represent countries and discuss global issues, aiming to draft resolutions through negotiation and debate."
           />
           <Accordion
-            title="Firebase or Supabase?"
-            answer="I am using Supabase!"
-          />
-          <Accordion
             title="Do I need prior experience to participate?"
             answer="No prior experience is required! Whether you're a beginner or have participated in MUNs before, everyone is welcome to join."
           />

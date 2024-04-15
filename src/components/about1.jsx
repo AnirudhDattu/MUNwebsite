@@ -10,9 +10,9 @@ const About1 = () => {
         <div className="text-center text-blue-500 text-4xl font-bold py-5">
           BML MUNJAL UNIVERSITY
         </div>
-        <div class="grid grid-cols-1 gap-4 lg:grid-cols-7 lg:gap-8 mx-6">
-          <div class="h-auto col-span-4 text-justify">
-            <p class="text-justify lg:mx-28 mx-10 tracking-wide text-xl h-full overflow-y-auto">
+        <div className="grid grid-cols-2 gap-4 lg:grid-cols-7 lg:gap-8 mx-6">
+          <div className="h-auto col-span-1 lg:col-span-4 text-justify">
+            <p className="text-justify mx-10 tracking-wide text-xl h-full overflow-y-auto">
               Welcome to BML Munjal University (BMU), where excellence meets
               innovation in higher education. At BMU, we foster a unique
               experiential-learning environment that nurtures curiosity,
@@ -36,28 +36,28 @@ const About1 = () => {
               create a legacy of excellence in education.
             </p>
           </div>
-          <div className="col-span-3">
-            <div class="container mx-auto ">
-              <div class="md:flex hidden flex-wrap">
-                <div class="flex flex-wrap content-start">
-                  <div class="h-2/6 w-full  p-1 md:p-2">
+          <div className="col-span-1 lg:col-span-3">
+            <div className="container mx-auto ">
+              <div className="md:flex hidden flex-wrap">
+                <div className="flex flex-wrap content-start">
+                  <div className=" w-full  p-1 md:p-2">
                     <img
                       alt="gallery"
-                      class="block h-full w-full rounded-lg object-cover object-center"
+                      className="block h-full w-full rounded-lg object-cover object-center"
                       src={assets.about1}
                     />
                   </div>
-                  <div class="w-1/2 h-2/5 p-1 md:p-2">
+                  <div className="w-1/2 p-1 md:p-2">
                     <img
                       alt="gallery"
-                      class="block h-full w-full rounded-lg object-cover object-center"
+                      className="block h-full w-full rounded-lg object-cover object-center"
                       src={assets.about2}
                     />
                   </div>
-                  <div class="w-1/2 h-2/5 p-1 md:p-2">
+                  <div className="w-1/2 p-1 md:p-2">
                     <img
                       alt="gallery"
-                      class="block h-full w-full rounded-lg object-cover object-center"
+                      className="block h-full w-full rounded-lg object-cover object-center"
                       src={assets.about3}
                     />
                   </div>
